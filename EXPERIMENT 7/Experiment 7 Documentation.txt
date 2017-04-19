@@ -9,8 +9,8 @@ MAKING GIT RECOGNIZE YOU:-
 --------------------------
 After installing git in your system open terminal and configure your git with your git account
 
-git config --global user.name "nirmalthomas2609"
-git config --global user.email "nirmalthomas26@gmail.com"
+git config --global user.name "krishnanunnir"
+git config --global user.email "krishnanunnir97@gmail.com"
 
 TO GET THE CONFIGURATION LIST:-
 -------------------------------

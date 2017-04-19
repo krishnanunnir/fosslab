@@ -43,3 +43,9 @@
 * style.css is used to design the website
 
 
+## Database
+
+* A database with name foss is used, a table 'user' is used to store individual data items
+
+
+
